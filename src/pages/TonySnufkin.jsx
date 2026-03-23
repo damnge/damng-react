@@ -53,7 +53,7 @@ export default function TonySnufkin() {
             </p>
             <div className={`main-btn-wrapper live-btn animated ${anim.btn ? 'fade' : ''}`}>
               <a
-                href="https://www.tonysnufkin.com/"
+                href="https://www.damgrela.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="main-btn btn-effect"
